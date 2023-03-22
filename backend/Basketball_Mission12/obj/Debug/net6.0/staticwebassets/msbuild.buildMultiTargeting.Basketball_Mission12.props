@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Basketball_Mission12.props" />
+</Project>

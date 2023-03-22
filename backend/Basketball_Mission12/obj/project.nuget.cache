@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t5ktjWJFl3w55Vbyk9A0tmSub6ozt1rH0BmtNUSYcEX8AnYBtwKGAkAojRhARnPHvd1esb4lpVcdUAvX2sR75w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kathe\\OneDrive\\Documents\\IS 413\\Basketball_Mission12\\backend\\Basketball_Mission12\\Basketball_Mission12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kathe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
